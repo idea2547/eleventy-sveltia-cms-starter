@@ -1,7 +1,7 @@
 ---
 title: อยากมาแชร์ความน่าสนใจของ NFT.Storage
 date: 2023-10-30T23:04
-author: Jane Doe
+author: Idea RC
 summary: |-
   อยากมาแชร์ความน่าสนใจของ http://NFT.Storage
    ซึ่งถูกพัฒนาโดย Protocol labs(บริษัทที่พัฒนาเทคโนโลยีของ IPFS นั่นเอง) http://NFT.Storage
